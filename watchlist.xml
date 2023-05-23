@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<watchlist>
+    <movies_watched>
+        <movie id="6469280bc4188">
+            <name>Fight Club</name>
+            <watched_date>2021-01-20</watched_date>
+            <rating>10</rating>
+            <note>Ajmo otvoriti tvornicu sapuna :)</note>
+        </movie>
+        <movie id="6469285c5f72c">
+            <name>The Shawshank Redemption</name>
+            <watched_date>2023-02-08</watched_date>
+            <rating>10</rating>
+            <note>Pogledao 3 puta</note>
+        </movie>
+        <movie id="646928e1e7021">
+            <name>Pulp Fiction</name>
+            <watched_date>2023-05-01</watched_date>
+            <rating>10</rating>
+            <note>DjontraVolta</note>
+        </movie>
+        <movie id="64692953b4642">
+            <name>Saving Private Ryan</name>
+            <watched_date>2023-03-07</watched_date>
+            <rating>9.4</rating>
+            <note>Carantena najjaca mapa iz COD2</note>
+        </movie>
+        <movie id="64693999de217">
+            <name>World of Warcraft</name>
+            <watched_date>2016-05-22</watched_date>
+            <rating>8.5</rating>
+            <note>Dost dobar Warcraft movie</note>
+        </movie>
+        <movie id="646bb2de5b33a">
+            <name>Kako je poceo rat na mom otoku</name>
+            <watched_date>2020-06-17</watched_date>
+            <rating>7.6</rating>
+            <note>Aljosa vrati se kuci</note>
+        </movie>
+        <movie id="646bb76ee033e">
+            <name>Alice in Wonderland</name>
+            <watched_date>2020-07-22</watched_date>
+            <rating>7.2</rating>
+            <note>Herro</note>
+        </movie>
+    </movies_watched>
+    <series_watched>
+        <series id="64692c44112d7">
+            <name>The Mandalorian</name>
+            <watched_date>2023-05-06</watched_date>
+            <season>2</season>
+            <episode>8</episode>
+            <rating>10</rating>
+            <note>BbyJoda</note>
+        </series>
+        
+    <series id="646c0590045be"><name>Supernatural</name><watched_date>2019-02-24</watched_date><season>15</season><episode>4</episode><rating>7.6</rating><note>Ne znam di sam stao s ovime iskreno</note></series></series_watched>
+    <need_to_watch>
+        <item id="6469050162e7a">
+            <name>Lord of the Rings</name>
+            <type>movie</type>
+        </item>
+
+        <item id="646908ba42b50">
+            <name>Sweet Tooth</name>
+            <type>series</type>
+        </item>
+        <item id="646908cd13744">
+            <name> Game of Thrones</name>
+            <type>series</type>
+        </item>
+
+        <item id="646908f0097fc">
+            <name>Breaking Bad</name>
+            <type>series</type>
+        </item>
+    </need_to_watch>
+</watchlist>
