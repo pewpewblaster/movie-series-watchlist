@@ -1,0 +1,88 @@
+/* styles.css */
+
+body {
+    background-color: #333333;
+    color: #ffffff;
+  }
+  
+  .container {
+    background-color: #222222;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .nav-link {
+    color: #ffffff;
+  }
+  
+  .nav-link.active {
+    background-color: #0066cc;
+  }
+  
+  .form-control {
+    background-color: #444444;
+    color: #ffffff;
+  }
+  
+  .table {
+    background-color: #444444;
+    color: #ffffff;
+    border-radius: 5px;
+  }
+  
+  .table th,
+  .table td {
+    border-color: #666666;
+  }
+  
+  .table th {
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .table th:hover {
+    background-color: #555555;
+  }
+  
+  .table td {
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .table td:hover {
+    background-color: #555555;
+  }
+  
+  .btn-primary {
+    background-color: #0066cc;
+    border-color: #0066cc;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0059b3;
+    border-color: #0059b3;
+  }
+  
+  .btn-danger {
+    background-color: #cc0000;
+    border-color: #cc0000;
+  }
+  
+  .btn-danger:hover {
+    background-color: #b30000;
+    border-color: #b30000;
+  }
+  
+  .table th.sort-asc::after,
+  .table th.sort-desc::after {
+    border-color: transparent transparent #ffffff;
+  }
+  
+  .table th.sort-asc::after {
+    border-top-color: #ffffff;
+  }
+  
+  .table th.sort-desc::after {
+    border-bottom-color: #ffffff;
+  }
+  

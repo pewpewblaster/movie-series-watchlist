@@ -4,7 +4,8 @@
 <head>
     <title>Watchlist - Need to Watch</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-    
+    <link rel="stylesheet" href="styles.css">
+
     <script>
     function sortTable(column) {
         var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;

@@ -4,6 +4,7 @@
 <head>
     <title>Watchlist - Movies Watched</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
     <script>
     function sortTable(columnIndex) {
         var table = document.getElementById("seriesTable");
