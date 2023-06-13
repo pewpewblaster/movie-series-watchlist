@@ -125,7 +125,7 @@
                 </div>
             </div>
             <h2>Movies I Watched</h2>
-            <form action="movise_delete.php" method="post">
+            <form action="movies_delete.php" method="post">
                 <div class="form-group">
                     <label for="delete_id">Movie ID:</label>
                     <input class="form-control" type="text" id="delete_id" name="delete_id" required>
